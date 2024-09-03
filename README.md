@@ -12,6 +12,8 @@
 [![Release](https://img.shields.io/github/release-pre/scionproto/scion.svg)](https://github.com/scionproto/scion/releases)
 [![License](https://img.shields.io/github/license/scionproto/scion.svg?maxAge=2592000)](https://github.com/scionproto/scion/blob/master/LICENSE)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scionproto)](https://github.com/scionproto/scion)
+
 Welcome to the open-source implementation of [SCION](http://www.scion-architecture.net)
 (Scalability, Control and Isolation On next-generation Networks), a future Internet architecture.
 SCION provides route control, failure isolation, and explicit trust information for end-to-end communication.
